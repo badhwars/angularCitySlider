@@ -1,0 +1,20 @@
+h3{
+   text-align: center;
+   color:#3e4444;
+   font-family: sans-serif;
+}
+div{
+   margin-left:300px;
+   margin-right:300px;
+   background-color: #b5e7a0;
+}
+#btn{
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 26px;
+}
